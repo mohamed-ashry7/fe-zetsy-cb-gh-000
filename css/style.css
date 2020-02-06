@@ -5,8 +5,8 @@
 /*////////// Global Styles //////////*/
 
 @font-face {
-  font-family: myFirstFont;
-  src: url('C:\Users\Jon\Desktop\zz\clights.ttf')  format('truetype');
+  font-family: Baskerville;
+  src: url('../fonts/Baskerville.ttc')  format('truetype');
 }
 body {
 	background: #F3EBE9;
