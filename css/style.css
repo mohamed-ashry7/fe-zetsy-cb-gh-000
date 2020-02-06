@@ -21,7 +21,7 @@ body {
 	padding: 0 45px 20px;
 }
 *{
-	box-sizing:content-box;
+	box-sizing:border-box;
 }
 /* Write all remaining styles here */
 
