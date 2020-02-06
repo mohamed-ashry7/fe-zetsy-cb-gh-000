@@ -4,6 +4,10 @@
 @import url(/fonts/Baskerville.ttc);
 /*////////// Global Styles //////////*/
 
+@font-face {
+  font-family: myFirstFont;
+  src: url('C:\Users\Jon\Desktop\zz\clights.ttf')  format('truetype');
+}
 body {
 	background: #F3EBE9;
 	font-size: 100%;
